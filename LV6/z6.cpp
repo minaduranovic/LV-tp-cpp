@@ -4,6 +4,7 @@
 #include <stdexcept>
 #include <new>
 #include <iterator>
+//nisu prosla dva autotesta
 
 template <typename it>
 auto KreirajIzvrnutiNiz(it pocetak, it kraj) {
